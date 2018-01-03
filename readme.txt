@@ -8,6 +8,8 @@ Creating a new branch is quick and simple
 Creating a new branch is quick and simple
 >>>>>>> feature1
 
+
 now i get some change of this file ,path several message 
 to study selenium of this tools
-
+===============================
+To check a message to this
