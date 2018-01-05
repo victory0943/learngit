@@ -1,3 +1,5 @@
 to post a file to test github
 
  验证fast forward是否生效
+
+修改一个bug
