@@ -16,4 +16,9 @@ To check a message to this
 
 ==================================================
 添加一个新的分支dev
+<<<<<<< HEAD
 Create a new branch is quick & simple
+=======
+=====================
+Create a new branch is quick & simple
+>>>>>>> feature1
