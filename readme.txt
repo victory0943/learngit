@@ -22,3 +22,6 @@ Create a new branch is quick & simple
 =====================
 Create a new branch is quick & simple
 >>>>>>> feature1
+-----------------------------------------------
+强制禁用fast forward
+
