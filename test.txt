@@ -1,3 +1,8 @@
 to post a file to test github
 
  验证fast forward是否生效
+
+修改一个bug
+
+新建一个提交，用于验证pul requests 功能，
+感谢廖雪峰老师的git系列课程，您是指引我们前进的曙光
